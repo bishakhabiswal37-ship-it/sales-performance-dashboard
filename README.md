@@ -47,4 +47,4 @@ This is a sample piece built to demonstrate the kind of dashboard I deliver for 
 ## About Me
 
 Data Analyst & SOC Analyst (fresher) | SQL · Python · Power BI  
-📧 your.email@example.com | 🔗 [LinkedIn](#) | 🔗 [Fiverr](#)
+📧 bishakhabiswal37@gmail.com | 🔗 www.linkedin.com/in/bishakha-biswal-ba51a2258(#) | 🔗 [Fiverr](#)
