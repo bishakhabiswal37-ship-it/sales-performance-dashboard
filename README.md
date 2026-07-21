@@ -6,7 +6,8 @@ An interactive sales analytics dashboard built to track revenue trends, regional
 
 🔗 **Live demo:** https://bishakhabiswal.github.io/sales-performance-dashboard/dashboard.html
 
-![Dashboard Preview](screenshot1.png)<img width="1366" height="728" alt="screenshot1" src="https://github.com/user-attachments/assets/743252b2-8162-4f39-9465-b599002f6ef2" />
+![Dashboard Preview](screenshot1.png)<img width="1366" height="694" alt="screenshot1" src="https://github.com/user-attachments/assets/a97bf214-7053-4813-bf2d-dd4d546ab81c" />
+
 
 
 ## Overview
